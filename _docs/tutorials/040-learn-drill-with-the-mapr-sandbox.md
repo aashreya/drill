@@ -1,6 +1,6 @@
 ---
 title: "Learn Drill with the MapR Sandbox"
-date:  
+date:  2017-04-05 00:09:55 UTC  
 parent: "Tutorials"
 ---
 This tutorial uses the MapR Sandbox, which is a Hadoop environment pre-

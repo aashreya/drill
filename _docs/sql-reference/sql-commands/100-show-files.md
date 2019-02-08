@@ -1,6 +1,6 @@
 ---
 title: "SHOW FILES"
-date:  
+date:  2017-04-05 00:09:55 UTC  
 parent: "SQL Commands"
 ---
 The SHOW FILES command provides a quick report of the file systems that are

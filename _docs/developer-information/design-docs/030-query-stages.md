@@ -1,6 +1,6 @@
 ---
 title: "Query Stages"
-date:  
+date:  2017-04-05 00:09:55 UTC  
 parent: "Design Docs"
 ---
 ## Overview

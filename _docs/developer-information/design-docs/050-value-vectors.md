@@ -1,6 +1,6 @@
 ---
 title: "Value Vectors"
-date:  
+date:  2017-04-05 00:09:55 UTC  
 parent: "Design Docs"
 ---
 This document defines the data structures required for passing sequences of

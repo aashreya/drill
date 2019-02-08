@@ -1,6 +1,6 @@
 ---
 title: "Tableau Examples"
-date:  
+date:  2017-04-05 00:09:55 UTC  
 parent: "Using Drill with BI Tools"
 ---
 You can generate reports in Tableau using ODBC connections to Drill data

@@ -1,6 +1,6 @@
 ---
 title: "Workspaces"
-date:  
+date:  2017-04-05 00:09:55 UTC  
 parent: "Storage Plugin Configuration"
 ---
 You can define one or more workspaces in a [storage plugin configuration]({{site.baseurl}}/docs/plugin-configuration-basics/). The workspace defines the location of files in subdirectories of a local or distributed file system. Drill searches the workspace to locate data when

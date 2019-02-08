@@ -1,6 +1,6 @@
 ---
 title: "HBase Storage Plugin"
-date:  
+date:  2017-04-05 00:09:55 UTC  
 parent: "Connect a Data Source"
 ---
 When connecting Drill to an HBase data source using the HBase storage plugin installed with Drill, you need to specify a ZooKeeper quorum. Drill supports HBase version 1.x.

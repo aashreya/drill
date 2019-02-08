@@ -489,7 +489,7 @@ table.intro span {
   bottom:30px;
   display:block;
   position:absolute;
-  width:100%;
+  width: 90%;
 }
 
 table.intro a {
@@ -826,7 +826,9 @@ div.alertbar div span{
 div.home-row{
   border-bottom:solid 1px #ccc;
   margin:0 auto;
-  text-align:center;
+  //text-align:center;
+  width: 80%;
+  float: left;
 }
 
 div.home-row div{
@@ -842,10 +844,12 @@ div.home-row:nth-child(odd) div.big{
 div.home-row:nth-child(odd) div.description{
   margin-left:40px;
   width:580px;
+  padding: 20px;
 }
 
 div.home-row:nth-child(even) div.description{
   width:580px;
+  padding: 20px;
 }
 
 div.home-row:nth-child(even) div.big{

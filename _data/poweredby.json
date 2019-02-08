@@ -1,0 +1,19 @@
+{
+  "companies": [
+    {
+      "name": "TransUnion",
+      "logoFileName": "mapr-logo-red.png",
+      "description": "TransUnion is using Drill for their internal BI and reporting applications. They chose Drill after doing a POC with all major SQL on Hadoop engines."
+    },
+    {
+      "name": "Ericsson",
+      "logoFileName": "mapr-logo-red.png",
+      "description": "Ericsson uses Drill to run analytics on wireless network activity on their devices and provide utilization reports to wireless network providers. Drill provides the ability to run SQL analytics on a large number of data sources at once."
+    },
+    {
+      "name": "Sanchez Energy",
+      "logoFileName": "mapr-logo-red.png",
+      "description": "Sanchez Energy uses Drill to run analytics using SQL against a rich variety of data captured from a variety of data sources - structured and semi-structured to power real time applications and decision making."
+    }
+  ]
+}

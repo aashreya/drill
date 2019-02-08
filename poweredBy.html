@@ -1,0 +1,43 @@
+---
+layout: page
+title: "Drill Powered By"
+---
+<link href="{{ site.baseurl }}/css/poweredBy.css" rel="stylesheet" type="text/css">
+<div class="int_text">
+    {% for company in site.data.poweredby.companies %}
+    <div class="power_box">
+        <img src="{{ site.baseurl }}/images/{{ company.logoFileName }}" style="width:150px;height:40px">
+        <p> {{ company.description }}</p>
+    </div>
+    {% endfor %}
+
+    <!--<div style="padding: 30px;background-color: rgba(255,255,255,0.5);box-shadow: 3px 3px 3px 3px #AAAAAA;margin-bottom: 8px;margin-left: 20px;width: 25%;display: inline-grid;">-->
+    <!--<img src="{{ site.baseurl }}/images/mapr-logo-red.png" style="width:150px;height:40px">-->
+    <!--<p>TransUnion is using Drill for their internal BI and reporting applications. They chose Drill after doing a-->
+    <!--POC-->
+    <!--with all major SQL on Hadoop engines. </p>-->
+    <!--</div>-->
+    <!--<div style="padding: 30px;background-color: rgba(255,255,255,0.5);box-shadow: 3px 3px 3px 3px #AAAAAA;margin-bottom: 8px;margin-left: 20px;width: 25%;display: inline-grid;">-->
+    <!--<img src="{{ site.baseurl }}/images/mapr-logo-red.png" style="width:150px;height:40px">-->
+    <!--<p>Ericsson uses Drill to run analytics on wireless network activity on their devices and provide utilization-->
+    <!--reports to wireless network providers. Drill provides the ability to run SQL analytics on a large number of-->
+    <!--data-->
+    <!--sources at once. </p>-->
+    <!--</div>-->
+
+    <!--<div style="padding: 30px;background-color: rgba(255,255,255,0.5);box-shadow: 3px 3px 3px 3px #AAAAAA;margin-bottom: 8px;margin-left: 20px;width: 25%;display: inline-grid;">-->
+    <!--<img src="{{ site.baseurl }}/images/mapr-logo-red.png" style="width:150px;height:40px">-->
+    <!--<p>Sanchez Energy uses Drill to run analytics using SQL against a rich variety of data captured from a variety-->
+    <!--of-->
+    <!--data sources - structured and semi-structured to power real time applications and decision making.-->
+    <!--</p>-->
+    <!--</div>-->
+
+    <!--<div style="padding: 30px;background-color: rgba(255,255,255,0.5);box-shadow: 3px 3px 3px 3px #AAAAAA;margin-bottom: 8px;margin-left: 20px;width: 25%;display: inline-grid;">-->
+    <!--<img src="{{ site.baseurl }}/images/mapr-logo-red.png" style="width:150px;height:40px">-->
+    <!--<p>Sanchez Energy uses Drill to run analytics using SQL against a rich variety of data captured from a variety-->
+    <!--of-->
+    <!--data sources - structured and semi-structured to power real time applications and decision making.-->
+    <!--</p>-->
+    <!--</div>-->
+</div>

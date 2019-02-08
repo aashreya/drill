@@ -1,6 +1,6 @@
 ---
 title: "Core Modules"
-date:  
+date:  2017-04-05 00:09:55 UTC  
 parent: "Architecture"
 ---
 The following image represents components within each Drillbit:
